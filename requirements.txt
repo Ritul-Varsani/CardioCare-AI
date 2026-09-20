@@ -1,6 +1,6 @@
-import streamlit
-import pandas
-import numpy
-import matplotlib
-import sklearn
-import joblib
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
